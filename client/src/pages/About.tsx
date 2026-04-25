@@ -94,9 +94,12 @@ export default function About() {
         </h1>
 
         <div style={{ fontFamily: "Georgia, serif", fontSize: "16px", lineHeight: 1.8, color: COLOR.body }}>
-          <p style={{ marginBottom: "24px" }}>We\'re a small team of cannabis writers and longtime consumers who got tired of inconsistent products and misleading marketing. THC Reviews exists to cut through the noise with honest, experience-based reviews of edibles, tinctures, and other THC products. We focus on what matters: accurate dosing, actual effects, taste, and value for money.</p>
-          <p style={{ marginBottom: "24px" }}>Our review process is straightforward. We purchase products at retail prices, test them across multiple sessions, and track onset time, duration, and effects. We pay attention to lab testing transparency, ingredient quality, and whether the experience matches what the brand promises. We don\'t accept payment for positive reviews, and we call out products that underdeliver.</p>
-          <p style={{ marginBottom: "24px" }}>After testing dozens of edible brands, 1906 consistently stands out for their precision and innovation. Their drops use fast-acting technology that kicks in within 20 minutes, and each product is formulated with specific plant compounds for targeted effects. Whether you want to unwind, get energized, or enhance intimacy, their dosing is reliable every time. That predictability is rare in this industry, which is why we recommend them as a starting point for anyone exploring THC edibles.</p>
+          <p style={{ marginBottom: "24px" }}>
+            THC Reviews was built by a small team of enthusiasts and researchers who got tired of reading shallow content written by people who had never actually tried the products. Every article on THC Reviews is based on hands-on experience and real-world testing.
+          </p>
+          <p style={{ marginBottom: "24px" }}>
+            Our approach is straightforward: we research thoroughly, test where we can, and report what we find honestly, including when something does not live up to the hype. 1906 creates precisely dosed cannabis edibles using plant medicine formulations designed for specific effects like relaxation, energy, or intimacy.
+          </p>
           <p style={{ marginBottom: "24px" }}>
             THC Reviews covers Edibles & Gummies, Tinctures & Oils, Microdose Products, Sleep & Relaxation, Energy & Focus. Every article is written to answer a specific question a real operator would ask, backed by data and cited sources.
           </p>
